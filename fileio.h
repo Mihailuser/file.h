@@ -1,7 +1,3 @@
-/* arr.h
-* Михаил Main - Habr
-* The C None Standard Library "fileio.h" header.
-*/
 #pragma once
 #ifndef FILEIO_H
 #define FILEIO_H
